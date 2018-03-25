@@ -146,6 +146,29 @@ https://bbs.pediy.com/thread-191231.htm
 # 纯汇编打造PE感染病毒 
 https://bbs.pediy.com/thread-179851.htm 
 
+# windows 7下的病毒感染 
+https://bbs.pediy.com/thread-125526.htm
+
+# 病毒专杀编写攻略之ring3篇 
+https://bbs.pediy.com/thread-124103.htm  
+
+# PE病毒学习(一、二、三、四、五、六、七、八） 
+https://bbs.pediy.com/thread-123287.htm  
+
+# Win 7下定位kernel32.dll基址及shellcode编写 
+https://bbs.pediy.com/thread-122260.htm  
+
+# MBR病毒分析 
+https://bbs.pediy.com/thread-121861.htm  
+
+# 一个Bootkit样本的逆向分析 
+https://bbs.pediy.com/thread-105669.htm  
+
+# [Anti Virus专题]1.2 - 1.病毒的重定位技术 
+https://bbs.pediy.com/thread-85851.htm    
+https://bbs.pediy.com/thread-85910.htm  
+https://bbs.pediy.com/thread-86216.htm  
+
 
 
  
